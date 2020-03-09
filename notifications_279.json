@@ -1,0 +1,10 @@
+{
+  "notifications": [
+    {
+      "id": "9",
+      "title": "Regular System Update",
+      "message": "We are deploying a new update. New features included: Cart Notifications",
+      "contextMessage": "Reservety"
+    }
+  ]
+}
