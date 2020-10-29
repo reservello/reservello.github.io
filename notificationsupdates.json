@@ -1,4 +1,4 @@
-callback({
+{
   "notifications": [
     {
       "id": "9",
@@ -7,4 +7,4 @@ callback({
       "contextMessage": "RentOrlandoScooters"
     }
   ]
-})
+}
